@@ -1,0 +1,6 @@
+{
+  "name": "Atlas - Explorador y Auditor de Software",
+  "description": "Explorador tecnológico personal y auditor verificable de software para análisis de proyectos, verificación de especificaciones e investigación técnica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
